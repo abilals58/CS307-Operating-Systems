@@ -1,0 +1,2 @@
+man ls | grep -A 2 -e '-c '  > output.txt
+
